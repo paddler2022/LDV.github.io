@@ -51,11 +51,8 @@ round-avatar: true
 social-network-links:
   email: "yuheng.lu@epfl.ch"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: paddler2022
+  
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://paddler2022.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

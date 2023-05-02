@@ -3,7 +3,7 @@ layout: post
 title: Welcome to the world of Pokemon!
 subtitle: A brief introduction to the Pokemon battles
 cover-img: /assets/img/background_intro.png
-thumbnail-img: /assets/img/pokemon_thumb.png
+thumbnail-img: /assets/img/introduction_thumb.png
 share-img: /assets/img/path.jpg
 tags: [intro]
 ---

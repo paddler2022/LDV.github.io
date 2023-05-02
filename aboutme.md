@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Pokémon Datasets
+subtitle: The best IP in the world!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Pokémon, the abbrevation for Pocket Monster, is one of the best-known anime and game series in the world. We are keen on finding the designing data in Pokémon and visualize the hidden myth of Pokémon competions in order to become a true Pokemon Master in this turn-by-turn game. Therefore, we use [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) and [Competitive Pokemon Analysis and Modelling](https://www.kaggle.com/code/n2cholas/competitive-pokemon-analysis-and-modelling)These two datasets includes data below :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- pokemons' index_ids and names 
+- pokemons' nature, moves, abilities, items, etc
+- pokemons' Tier of usage rate in the battles
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

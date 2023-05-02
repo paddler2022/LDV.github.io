@@ -5,7 +5,7 @@ subtitle: A brief introduction to the Pokemon battles
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [intro, test]
 ---
 
 Pokémon Battle is a popular game that involves players using virtual creatures called "Pokémon" to battle against each other. The game is based on the Pokémon franchise, which was created by Nintendo in 1996.

@@ -23,20 +23,20 @@ Every Pokemon has an attribute *Tier*, it takes the following different values: 
 We already have a result:
 
 
-|    | Ability           |   Count |
-|---:|:------------------|--------:|
-| 46 | 'Telepathy'       |       4 |
-|  1 | 'Regenerator'     |       4 |
-|  5 | 'Beast Boost'     |       3 |
-| 29 | 'Levitate'        |       2 |
-| 40 | 'Keen Eye'        |       2 |
-| 33 | 'Sturdy'          |       2 |
-| 22 | 'Limber'          |       2 |
-| 12 | 'Mold Breaker'    |       2 |
-| 19 | 'Battle Bond'     |       2 |
-|  8 | 'Serene Grace'    |       2 |
-|  4 | 'Pressure'        |       2 |
-| 38 | 'Disguise'        |       1 |
+| | Ability | Count |
+| :------ |:--- | :--- |
+| 46 | 'Telepathy' | 4 |
+| 1 | 'Regenerator' | 4 |
+| 5 | 'Beast Boost' | 3 |
+| 29 | 'Levitate' | 2 |
+| 40 | 'Keen Eye' | 2 |
+| 33 | 'Sturdy' | 2 |
+| 22 | 'Limber' | 2 |
+| 12 | 'Mold Breaker' | 2 |
+| 19 | 'Battle Bond' | 2 |
+| 8 | 'Serene Grace' | 2 |
+| 4 | 'Pressure' | 2 |
+| 38 | 'Disguise' | 1 |
 
 For the sake of visualization, we are thinking about creating a horizontal sliding bar which contains the top 5 most popular abilities. Inside of the sliding bar there are 5 different icons symboling each ablity. When the mouse moves onto each icon, detailed information of the ability will be shown. This could be implemented with simple engineering.
 
